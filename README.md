@@ -1,1 +1,1 @@
-# JavaScript_Projects
+# Color Changer - JavaScript Project
